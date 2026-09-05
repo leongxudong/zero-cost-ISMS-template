@@ -1,12 +1,15 @@
 # Zero-Cost ISMS Template
 
-A lightweight, zero-cost template for mapping the core components of a functional Information Security Management System (ISMS).
+> **Status: SUPPORTING GRC REFERENCE**  
+> Generic learning/template material retained to demonstrate ISMS structure and GRC design thinking. This is not a certification toolkit, employer ISMS, client deliverable, legal advice, or production governance pack.
 
-This repository is designed for small teams, nonprofits, and resource-constrained organizations that need structure before investing in a full GRC platform.
+A lightweight, zero-cost reference for mapping the core components of a functional Information Security Management System (ISMS).
 
-## Project Purpose
+This repository is aimed at small teams, nonprofits, and resource-constrained organisations that want to understand the minimum moving parts of an ISMS before selecting tooling or professional support.
 
-The purpose of this repository is to show what a functional ISMS should contain, how the components connect, and what minimum artefacts can be maintained using simple documents and spreadsheets.
+## Purpose
+
+The repository shows what a functional ISMS can contain, how the components connect, and what minimum artefacts may be maintained using simple documents and spreadsheets.
 
 ## ISMS Component Map
 
@@ -14,7 +17,7 @@ The purpose of this repository is to show what a functional ISMS should contain,
 |---|---|
 | ISMS scope | Defines what the ISMS covers |
 | Asset inventory | Identifies systems, data, and owners |
-| Risk register | Tracks information security risks and treatments |
+| Risk register | Tracks information-security risks and treatments |
 | Policies and procedures | Defines expected security practices |
 | Vendor risk register | Tracks third-party risks and due diligence |
 | Incident response plan | Defines escalation, response, and recovery roles |
@@ -45,16 +48,16 @@ zero-cost-ISMS-template/
     └── README.md
 ```
 
-## Portfolio Value
-
-This project demonstrates:
+## What It Demonstrates
 
 - ISMS design thinking
-- Governance and risk management structure
+- Governance and risk-management structure
 - Business continuity and resilience awareness
-- Ability to translate frameworks into practical artefacts
-- Practical support for organizations with limited tooling budgets
+- Ability to translate framework concepts into practical artefacts
+- Awareness of lightweight approaches for resource-constrained organisations
 
-## Disclaimer
+## Boundary and Disclaimer
 
-This repository provides general learning templates and does not replace professional legal, audit, regulatory, or certification advice.
+All examples should remain generic and synthetic. Do not place employer/client policies, risk registers, audit evidence, Statement of Applicability content, internal thresholds, confidential architecture, or operational records in this public repository.
+
+This material does not replace professional legal, audit, regulatory, certification, or standards advice. Organisations should use the applicable official standards and regulatory sources as authoritative references.
